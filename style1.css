@@ -1,0 +1,27 @@
+body{
+  background: #aabbcc;
+  font-family: 'Arial';
+}
+
+div{
+  width: 190mm;
+  height: 200mm;
+  background: url("GRAF/spring.jpg");
+  background-size:cover;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+input{
+  width: 180mm;
+  height: 25mm;
+  background: black;
+  color: #fff;
+  font-size: 18mm;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
